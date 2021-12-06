@@ -10,8 +10,8 @@ bool temp = true;
 int lat = 1;
 int lon = 2;
 
-const char* ssid = "Deepansh Makkar";
-const char* password = "9896965676";
+const char* ssid = "Ritik";
+const char* password = "Ritik@12345";
 const char* host = "maker.ifttt.com";
 
 
